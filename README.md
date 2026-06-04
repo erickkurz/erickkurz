@@ -1,15 +1,10 @@
 # Olá! Eu sou o Érick Kurz 👋
 
 Estudante de **Licenciatura em Computação** no IFSUL — Pelotas/RS  
-Desenvolvedor back-end em formação, apaixonado por Java, Spring Boot e estruturas de dados.  
-Atualmente trabalhando como **Jovem Aprendiz na Unimed Pelotas** enquanto construo meu portfólio. 🚀
-
+Desenvolvedor back-end em formação, apaixonado por programação!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickkurz/) 
 ---
-## 🔗 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickkurz/)
-
----
 ## 🛠️ Tecnologias & Ferramentas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
