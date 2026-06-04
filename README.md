@@ -22,9 +22,7 @@ Desenvolvedor back-end em formação, apaixonado por programação!
 ## 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=erickkurz&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickkurz&layout=compact&langs_count=16&theme=dark&hide_border=true&bg_color=0d1117"/>
 </div>
 
 ---
