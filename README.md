@@ -2,6 +2,7 @@
 
 Estudante de **Licenciatura em Computação** no IFSUL — Pelotas/RS  
 Desenvolvedor back-end em formação, apaixonado por programação!  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickkurz/) 
 ---
 
