@@ -23,9 +23,7 @@ Desenvolvedor back-end em formação, apaixonado por programação!
 
 <div align="center">
 
-![Érick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickkurz&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=58a6ff&bg_color=0d1117)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erickkurz&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117)
+[![GitHub Streak](https://streak-stats.demolab.com?user=erickkurz&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
