@@ -5,7 +5,11 @@ Desenvolvedor back-end em formação, apaixonado por Java, Spring Boot e estrutu
 Atualmente trabalhando como **Jovem Aprendiz na Unimed Pelotas** enquanto construo meu portfólio. 🚀
 
 ---
+## 🔗 Contato
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickkurz/)
+
+---
 ## 🛠️ Tecnologias & Ferramentas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -42,6 +46,3 @@ Atualmente trabalhando como **Jovem Aprendiz na Unimed Pelotas** enquanto constr
 
 ---
 
-## 🔗 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickkurz/)
