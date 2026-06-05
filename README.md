@@ -20,19 +20,6 @@ Desenvolvedor back-end em formação, apaixonado por programação!
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img 
-    align="left" 
-    alt="Linguagens" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickkurz&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" 
-  />
-</p>
-
----
-
 ## 📌 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
